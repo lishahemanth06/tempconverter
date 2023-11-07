@@ -1,0 +1,53 @@
+body{
+    padding: 50px;
+    background-image: url(tempImg.jpg);
+  
+    
+}
+.bg-container{
+    background: radial-gradient(	#FFA500,#fffddb,	#ffd3fd,	#e4ffde,#C9C0BB,#98AFC7);
+  border-radius: 50px;
+  padding: 50px;
+  
+  text-align: center;
+}
+.heading{
+   
+    padding-top: 50px;
+    text-align: center;
+   color:	#FF1493;
+   font-weight: bold;
+   font-family: sans-serif;
+}
+#container{
+    text-align: center;
+  
+    padding: 50px;
+}
+
+.inp{
+    font-family: "roboto";
+  
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 250px;
+    border-radius: 10px;
+    border: dotted 2px grey;
+    background-color:aliceblue;
+    color: #ff1493;
+    
+}
+label{
+    font-style: italic;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(44, 6, 238);
+
+}
+.degree{
+    font-weight: bold;
+    color: #FF1493;
+}
